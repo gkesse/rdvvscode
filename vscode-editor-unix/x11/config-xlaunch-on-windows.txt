@@ -1,0 +1,18 @@
+Bouton Windows > XLaunch
+
+Cocher > Multiple Windows
+Display number > 0
+Suivant
+
+Cocher > Start no client
+Suivant
+
+Cocher > Clipboard
+Suivant
+
+Save configuration
+Emplacement > C:\Users\[username]\Documents
+Nom du fichier > config.xlaunch
+Enregistrer
+
+Terminer

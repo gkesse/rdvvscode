@@ -1,0 +1,1 @@
+install-pretty-json-extension-on-vscode

@@ -1,0 +1,8 @@
+Host username-desktop
+  HostName username-desktop
+  User username
+  Port 22
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  ForwardAgent yes
+  AddKeysToAgent yes
